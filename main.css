@@ -1,0 +1,75 @@
+/*
+    some valuable color as variable
+    please don't hesitate to copy
+*/
+:root {
+    --clr-common-white: #fff;
+    --clr-common-black: #000;
+    --clr-common-black2: #28292b;
+    --clr-common-black3: #1f242c;
+    --clr-common-black4: #161718;
+    --clr-common-blue: #2785ff;
+    --clr-common-heading: #171819;
+    --clr-common-text: #777777;
+    --clr-common-border: #eaebee;
+    --clr-common-border2: #f1f1f1;
+    --clr-common-placeholder: #bfbfbf;
+    --clr-common-placeholder2: #c1d0e9;
+    --clr-common-gray: #252627;
+    --clr-common-gray-1: #b5b5b5;
+    --clr-common-gray-2: #c5c5c5;
+    --clr-common-gray-3: #bbbbbb;
+    --clr-common-gray-4: #b7b7b7;
+    --clr-common-gray-5: #f8f8f8;
+    --clr-common-gray-6: #979aa0;
+    --clr-common-yellow: #FF9C00;
+    --clr-common-color1: #f1f1f1;
+    --clr-common-color2: #94989d;
+    --clr-common-color3: #ffa8b5;
+    --clr-common-color4: #4b4d50;
+    --clr-common-color5: #cbcbcb;
+    --clr-common-color6: #c6c6c6;
+    --clr-common-color7: #979ea5;
+    --clr-common-color8: #e8e8e8;
+    --clr-common-color9: #858a8f;
+    --clr-common-color10: #777c80;
+    --clr-common-color11: #999999;
+    --clr-common-color12: #e1e1e1;
+    --clr-common-color13: #2b2c2e;
+    --clr-common-color14: #f5baba;
+    --clr-common-color15: rgba(23, 24, 25, 0.1098039216);
+    --clr-common-color16: #b0b3b6;
+    --clr-common-color17: #909397;
+    --clr-common-color18: #c7ccd1;
+    --clr-common-color19: #d5d5d5;
+    --clr-common-color20: #969a9d;
+    --clr-common-color21: #616467;
+    --clr-common-color22: #9ea3a8;
+    --clr-common-color23: #212324;
+    --clr-common-red-overlay: rgb(218, 44, 70);
+    --clr-common-red: #de4259;
+    --clr-common-red-2: #f9afba;
+    --clr-theme-1: #da2c46;
+    --clr-theme-2: #fb5050;
+    --clr-bg-gray: #f3f4f6;
+    --clr-bg-gray-2: #f2f2f2;
+    --clr-bg-gray-3: #f9f9f9;
+    --clr-bg-white: #fff;
+    --clr-bg-white2: #f6f6f6;
+    --clr-bg-white3: #f3f3f3;
+    --clr-bg-black: #171819;
+    --clr-bg-black-2: #101011;
+    --clr-bg-black-3: #202022;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url("/img/explore\ our\ world.jpg");
+    background-size: cover;
+}
